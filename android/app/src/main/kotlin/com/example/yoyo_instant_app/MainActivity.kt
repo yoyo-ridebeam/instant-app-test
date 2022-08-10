@@ -1,4 +1,4 @@
-package com.example.yoyo_instant_app
+package com.escooterapp.yoyo_instant_app
 
 import io.flutter.embedding.android.FlutterActivity
 
